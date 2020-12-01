@@ -15,3 +15,7 @@
 [Sprint#4 Review Meeting Notes@2020-08-28](https://github.com/Crypto-ETF-Protocol/Meeting-Notes/blob/main/sprint%234Review%20Meeting%20Notes.md)
 
 [Sprint#5 Launch Meeting Notes@2020-09-01](https://github.com/Crypto-ETF-Protocol/Meeting-Notes/blob/main/sprint%235%20Launch%20Meeting%20Notes.md)
+
+[Sprint#5 Review Meeting Notes@2020-09-11](https://github.com/Crypto-ETF-Protocol/Meeting-Notes/blob/main/sprint%235Review%20Meeting%20Notes.md)
+
+[Sprint#6 Launch Meeting Notes@2020-09-14](https://github.com/Crypto-ETF-Protocol/Meeting-Notes/blob/main/sprint%236Launch%20Meeting%20Notes.md)
